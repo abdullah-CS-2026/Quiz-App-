@@ -10,3 +10,4 @@ router.get('/me', authMiddleware, getCurrentUser);
 router.post('/logout', logout);
 
 export default router;
+// aksfbkjsndaldnas
